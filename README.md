@@ -68,5 +68,5 @@ An enthusiastic professional offering over 2 years of data experience. Skilled i
 ### Github Stats
 <div>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=cassiano07&show_icons=true&theme=dark">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiano07&layout=compact&theme=dark">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiano07&theme=dark">
 </div>
