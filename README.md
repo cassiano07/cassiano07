@@ -2,7 +2,7 @@
 
 ### 😝 About me
 
-An enthusiastic professional offering over 2 years of data experience. Skilled in requirement gathering, data preparation and data analysis. Currently working as Business Intelligence Analyst at Ubook, where I contribute planning, designing and implementing solutions, data quality and insightfuls dashboards to the company. Strong knowledge in development and databases. Areas of expertise include Business Intelligence, Data warehouse, Data analysis, Data Modelling, Data visualization, Integrations, Automation scripts, Extract Transform and Load (ETL) and Requirement gathering with the final users.
+Professional with experience in data. Skilled in requirements gathering, data preparation, and data analysis. Areas of expertise include Business Intelligence, data warehousing, data analysis, data modeling, data visualization, integrations, automation scripting, extract, transform and load (ETL) and end-user requirements gathering.
 
 ### 🔗 Social Media
 <div>
