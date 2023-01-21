@@ -65,12 +65,3 @@ Professional with experience in data. Skilled in requirements gathering, data pr
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
     </div>
 </details>
-
-
-### Github Stats
-<div>
-    <a href="https://github.com/cassiano07/">
-        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=cassiano07&show_icons=true&theme=dark">
-        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiano07&theme=dark">
-    </a>
-</div>
